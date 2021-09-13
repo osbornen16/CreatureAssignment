@@ -1,0 +1,28 @@
+.base{
+    width: 250px;
+    height: 170px;
+    background-color: #0b76918f;
+    position: relative;
+    top: 200px;
+    left: 40%;
+    z-index: 1;
+}
+
+.rightarm{
+    width: 65px;
+    height: 110px;
+    background-color: rgba(94, 60, 60, 0.726);
+    position: absolute;
+    top: 60px;
+    z-index: 2;
+}
+
+.leftarm{
+    width: 65px;
+    height: 110px;
+    background-color:rgba(94, 60, 60, 0.726) ;
+    position:absolute;
+    left: 185px;
+    top: 60px;
+    z-index: 2;
+}
